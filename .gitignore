@@ -1,0 +1,7 @@
+.idea
+.metadata
+.settings
+target
+test-output
+.project
+.classpath
